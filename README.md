@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Lucca Trigueiro, i live in brazil. 
-- I'm interested in coding and i want to work whit it. 
+- 👋 Hi, I’m Lucca Trigueiro, I live in brazil. 
+- I'm interested in coding and I want to work whit it. 
 - Currently learning Javascript and C++. 
