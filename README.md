@@ -19,6 +19,6 @@
 
 # 🌎 | I'm also in
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/lucca-trigueiro-148544219/" targed="_blank">Linkedin<a/>
-  <a href="mailto:luccatrigueiro@outlook.com">outlook</a>
+  <a target="_blank" href="https://www.linkedin.com/in/lucca-trigueiro-148544219/" targed="_blank">Linkedin<a/>
+  <a target="_blank" href="mailto:luccatrigueiro@outlook.com" target>outlook</a>
 <div><br>
